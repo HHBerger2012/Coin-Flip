@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Gambling {
 	static int balance = 100; 
-	static int Dicetotal = 0;
+	static int Dicetotal = 0;//cfhvdj
 	static int dieRoll = 0;
 	static int bet = 0;
 	static int guess = 0;
